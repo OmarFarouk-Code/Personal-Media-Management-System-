@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-using namespace PMMS.Models;
+namespace PMMS.Models;
 
 public class WatchLog
 {
